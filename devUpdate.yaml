@@ -1,0 +1,5 @@
+provider: github
+owner: PraxiveSoftware
+repo: Wolf
+branch: main
+version: 1.0.0

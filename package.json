@@ -17,7 +17,23 @@
     "release": "standard-version",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "engine",
+    "wolf",
+    "browser-engine",
+    "praxive",
+    "praxivesoftware",
+    "thepraxivesoftware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraxiveSoftware/Wolf"
+  },
+  "bugs": {
+    "url": "https://github.com/PraxiveSoftware/issues/issues"
+  },
+  "homepage": "https://github.com/PraxiveSoftware/Wolf?tab=readme-ov-file",
   "author": "ThePraxiveSoftware",
   "license": "Apache-2.0",
   "devDependencies": {

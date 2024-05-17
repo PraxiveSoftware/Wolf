@@ -1,8 +1,8 @@
 const protocols = {
-    http: 'http://',
-    https: 'https://',
-    ftp: 'ftp://',
-    file: 'file://'
-}
+  http: "http://",
+  https: "https://",
+  ftp: "ftp://",
+  file: "file://",
+};
 
 export default protocols;
